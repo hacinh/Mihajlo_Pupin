@@ -2,7 +2,7 @@ body {
 
     padding: 20px;
     margin: 0;
-    background-image: url(../images/background.jpg);
+    background-image: url(./images/background.jpg);
     background-attachment: fixed;
     background-size: cover;
     font-family: 'Gelasio', serif;

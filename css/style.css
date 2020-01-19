@@ -1,0 +1,171 @@
+body {
+
+    padding: 20px;
+    margin: 0;
+    background-image: url(/images/background.jpg);
+    background-attachment: fixed;
+    background-size: cover;
+    font-family: 'Gelasio', serif;
+
+}
+
+h1,h2 {
+
+    background-color: #000000;
+    color: #fff;
+   padding: 5px;
+}
+#wrapper {
+background-color: #fff;
+width: 960px;
+
+padding: 15px;
+margin: 0 auto;
+}
+
+#header {
+
+    background-color: #f04040;
+    overflow: hidden;
+    margin-bottom: 15px;
+}
+
+#logo {
+
+    float: left;
+   padding: 20px;
+}
+
+#citat {
+
+    float: right;
+ padding: 20px;
+}
+
+#citat p {
+     
+font-size: 18px;
+color: #fff;
+
+    
+}
+
+#content {
+    width: 700px;
+    float: right;
+}
+
+#sidebar {
+    width: 240px;
+    float: left;
+    position: fixed;
+   border: 1px solid; 
+   border-color: #f04040;
+   
+   margin-top: 40px;
+
+}
+
+#footer {
+
+    clear: both;
+   background-color: #000000;
+    padding: 1px;
+    
+}
+
+#footer p {
+
+    color: #fff;
+    font-size: 12px;
+    text-align: center;
+   
+}
+
+#nav {
+ 
+background-color: #000000 ;
+
+
+ }
+
+ #nav ul {
+
+    margin: 0;
+    padding: 0;
+    list-style: none;
+ 
+ }
+
+ #nav ul li a{
+
+    padding: 20px 30px;
+    display: block;
+    font-size: 15px;
+    text-decoration: none;
+    color: #fff;
+
+ }
+
+ #nav ul li a:active, nav ul li a:visited {
+
+    color: #f04040;
+ }
+
+ #nav ul li a:hover {
+
+    color: #f04040;
+ }
+
+ .video {
+    float: right;
+
+margin: 30px 180px 30px 0px;
+ }
+
+
+ .slika {
+
+    float: right;
+    
+ }
+
+
+.slika img {
+
+    width: 200px;
+    height: 300px;
+}
+
+table {
+    font-family: 'Gelasio', serif;
+    border-collapse: collapse;
+    width: 80%;
+    margin: 0 auto;
+  }
+
+  th {
+    padding: 18px;
+  }
+
+  td {
+    padding: 12px;
+  }
+
+  th,
+  td {
+    border: solid 1px #e6e6e6;
+  }
+
+  tr {
+    background-color: #EDEDED;
+  }
+
+  tr.even {
+    background-color: #F7F7F7;
+  }
+
+  #heading {
+    background-color: #f04040;
+    color: white;
+  }
